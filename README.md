@@ -1,4 +1,4 @@
-# Evolutionary Computing IntelliJ IDEA project
+# Evolutionary Computing IntelliJ IDEA template project
 
 ### Important: this project was tested on linux and mac only. Use it at your own risk.
 
